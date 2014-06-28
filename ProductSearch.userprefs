@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProductSearch.Core/ProductRepository.cs">
+    <Files>
+      <File FileName="ProductSearch.Core/Product.cs" Line="10" Column="35" />
+      <File FileName="ProductSearch.Core/ProductRepository.cs" Line="12" Column="55" />
+      <File FileName="ProductSearch.Core/ProductViewModel.cs" Line="22" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
